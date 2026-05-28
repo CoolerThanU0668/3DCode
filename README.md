@@ -1,1 +1,1 @@
-this is just a program that has a 3d graphics engine and an inputs ystem and an unused ECS that i didnt have enough time to do anything with
+this is just a program that has a 3d graphics engine and an inputs ystem and an unused ECS that i didnt have enough time to do anything with(and the project is super unorganized because it didnt include the folders in visual studio for some reason)
